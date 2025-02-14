@@ -1,3 +1,5 @@
+import styles from "./NavBar.module.scss";
+
 function NavBar () {
 
     return (
